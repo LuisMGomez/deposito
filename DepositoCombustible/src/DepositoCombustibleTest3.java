@@ -2,7 +2,7 @@ import static org.junit.Assert.*;
 
 import org.junit.Test;
 
-public class DepositoCombustibleTest  {
+public class DepositoCombustibleTest3  {
 
 	/* Prueba para comprobar que funciona el método para saber
 	 * si el depósito está vacío.*/	
