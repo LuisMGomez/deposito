@@ -2,7 +2,7 @@ import static org.junit.Assert.*;
 
 import org.junit.Test;
 
-public class DepositoCombustibleTest  {
+public class DepositoCombustibleTest4  {
 
 	/*
 	 * Prueba para saber si el depósito está lleno a la mitad de su capacidad.
